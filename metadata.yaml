@@ -1,0 +1,33 @@
+_repo: Smoke-Bellew_5737
+_version: 0.0.1
+creator:
+  author:
+    agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: http://en.wikipedia.org/wiki/Jack_London
+description: A sweeping adventure saga in the tradition of White Fang and The Call
+  of the Wild, bringing to vivid life the cold, bleak, unforgiving Alaskan wilderness
+  and the colorful, desperately uncertain lives of both natives and intruders. On
+  a lark, the novel's hero, Christopher Bellew, a San Francisco newspaperman and dandy,
+  sets off on what he believes will be a brief trek into the Klondike to cover the
+  latest gold rush. The lark turns into a rough, raw adventure that transforms the
+  young chekako (tenderfoot) into a tough, hardened survivor.
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5737'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcsh 'Gold mines and mining -- California -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Smoke Bellew
+url: http://www.gutenberg.org/ebooks/5737
