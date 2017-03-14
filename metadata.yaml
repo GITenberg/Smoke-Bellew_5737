@@ -1,5 +1,8 @@
 _repo: Smoke-Bellew_5737
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: London, Jack
@@ -16,6 +19,8 @@ description: A sweeping adventure saga in the tradition of White Fang and The Ca
   sets off on what he believes will be a brief trek into the Klondike to cover the
   latest gold rush. The lark turns into a rough, raw adventure that transforms the
   young chekako (tenderfoot) into a tough, hardened survivor.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5737#Smoke-Bellew
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
